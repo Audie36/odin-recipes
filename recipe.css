@@ -1,3 +1,14 @@
 body{
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+a{
+    color: hsl(271, 76%, 80%);
+    text-decoration: none;
+    font-size: 30px;
+}
+a:hover{
+    color: hsl(271, 76%, 53%);
+}
+li{
+    list-style: url("https://cdn.iconscout.com/icon/free/png-512/free-recipe-book-icon-download-in-svg-png-gif-file-formats--cookbook-menu-cooking-food-kitchen-books-pack-school-education-icons-3806085.png?f=webp&w=30")
+}
